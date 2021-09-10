@@ -32,3 +32,4 @@ D:\Lidiya\Assessment1\microservices-task-2\Movie\MovieBooking\obj\Debug\net5.0\M
 D:\Lidiya\Assessment1\microservices-task-2\Movie\MovieBooking\obj\Debug\net5.0\ref\MovieBooking.dll
 D:\Lidiya\Assessment1\microservices-task-2\Movie\MovieBooking\obj\Debug\net5.0\MovieBooking.pdb
 D:\Lidiya\Assessment1\microservices-task-2\Movie\MovieBooking\obj\Debug\net5.0\MovieBooking.genruntimeconfig.cache
+D:\Lidiya\Assessment1\microservices-task-2\Movie\MovieBooking\bin\Debug\net5.0\Newtonsoft.Json.dll
